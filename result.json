@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Dieppe-Saint-Aubin Airport",
+    "iso_country": "France",
+    "municipality": "Saint-Aubin-sur-Scie",
+    "icao_code": "LFAB",
+    "iata_code": "DPE"
+  },
+  {
+    "name": "Calais-Dunkerque Airport",
+    "iso_country": "France",
+    "municipality": "Marck",
+    "icao_code": "LFAC",
+    "iata_code": "CQF"
+  },
+  {
+    "name": "Albert-Picardie Airport",
+    "iso_country": "France",
+    "municipality": "Méaulte, Somme",
+    "icao_code": "LFAQ",
+    "iata_code": "BYF"
+  },
+  {
+    "name": "Le Touquet-Côte d'Opale Airport",
+    "iso_country": "France",
+    "municipality": "Le Touquet-Paris-Plage",
+    "icao_code": "LFAT",
+    "iata_code": "LTQ"
+  },
+  {
+    "name": "Agen-La Garenne Airport",
+    "iso_country": "France",
+    "municipality": "Agen/La Garenne",
+    "icao_code": "LFBA",
+    "iata_code": "AGF"
+  },
+  {
+    "name": "Bordeaux-Mérignac Airport",
+    "iso_country": "France",
+    "municipality": "Bordeaux/Mérignac",
+    "icao_code": "LFBD",
+    "iata_code": "BOD"
+  },
+  {
+    "name": "Bergerac Dordogne Périgord Airport",
+    "iso_country": "France",
+    "municipality": "Bergerac/Roumanière",
+    "icao_code": "LFBE",
+    "iata_code": "EGC"
+  },
+  {
+    "name": "Cognac-Châteaubernard (BA 709) Air Base",
+    "iso_country": "France",
+    "municipality": "Cognac/Châteaubernard",
+    "icao_code": "LFBG",
+    "iata_code": "CNG"
+  },
+  {
+    "name": "La Rochelle-Île de Ré Airport",
+    "iso_country": "France",
+    "municipality": "La Rochelle/Île de Ré",
+    "icao_code": "LFBH",
+    "iata_code": "LRH"
+  },
+  {
+    "name": "Poitiers-Biard Airport",
+    "iso_country": "France",
+    "municipality": "Poitiers/Biard",
+    "icao_code": "LFBI",
+    "iata_code": "PIS"
+  },
+  {
+    "name": "Montluçon-Guéret Airport",
+    "iso_country": "France",
+    "municipality": "Lépaud, Creuse",
+    "icao_code": "LFBK",
+    "iata_code": "MCU"
+  },
+  {
+    "name": "Limoges Airport",
+    "iso_country": "France",
+    "municipality": "Limoges/Bellegarde",
+    "icao_code": "LFBL",
+    "iata_code": "LIG"
+  },
+  {
+    "name": "Niort - Marais Poitevin Airport",
+    "iso_country": "France",
+    "municipality": "Niort/Souché",
+    "icao_code": "LFBN",
+    "iata_code": "NIT"
+  },
+  {
+    "name": "Toulouse-Blagnac Airport",
+    "iso_country": "France",
+    "municipality": "Toulouse/Blagnac",
+    "icao_code": "LFBO",
+    "iata_code": "TLS"
+  },
+  {
+    "name": "Pau Pyrénées Airport",
+    "iso_country": "France",
+    "municipality": "Pau/Pyrénées (Uzein)",
+    "icao_code": "LFBP",
+    "iata_code": "PUF"
+  },
+  {
+    "name": "Tarbes-Lourdes-Pyrénées Airport",
+    "iso_country": "France",
+    "municipality": "Tarbes/Lourdes/Pyrénées",
+    "icao_code": "LFBT",
+    "iata_code": "LDE"
+  },
+  {
+    "name": "Angoulême-Brie-Champniers Airport",
+    "iso_country": "France",
+    "municipality": "Angoulême/Brie/Champniers",
+    "icao_code": "LFBU",
+    "iata_code": "ANG"
+  },
+  {
+    "name": "Périgueux-Bassillac Airport",
+    "iso_country": "France",
+    "municipality": "Périgueux/Bassillac",
+    "icao_code": "LFBX",
+    "iata_code": "PGX"
+  },
+  {
+    "name": "Biarritz-Anglet-Bayonne Airport",
+    "iso_country": "France",
+    "municipality": "Biarritz/Anglet/Bayonne",
+    "icao_code": "LFBZ",
+    "iata_code": "BIQ"
+  },
+  {
+    "name": "Aérodrome de Cahors-Lalbenque",
+    "iso_country": "France",
+    "municipality": "Cahors/Lalbenque",
+    "icao_code": "LFCC",
+    "iata_code": "ZAO"
+  },
+  {
+    "name": "Albi-Le Séquestre Airport",
+    "iso_country": "France",
+    "municipality": "Albi/Le Séquestre",
+    "icao_code": "LFCI",
+    "iata_code": "LBI"
+  },
+  {
+    "name": "Castres-Mazamet Airport",
+    "iso_country": "France",
+    "municipality": "Castres/Mazamet",
+    "icao_code": "LFCK",
+    "iata_code": "DCM"
+  },
+  {
+    "name": "Rodez–Aveyron Airport",
+    "iso_country": "France",
+    "municipality": "Rodez/Marcillac",
+    "icao_code": "LFCR",
+    "iata_code": "RDZ"
+  },
+  {
+    "name": "Royan-Médis Airport",
+    "iso_country": "France",
+    "municipality": "Royan/Médis",
+    "icao_code": "LFCY",
+    "iata_code": "RYN"
+  },
+  {
+    "name": "Rochefort-Saint-Agnant (BA 721) Airport",
+    "iso_country": "France",
+    "municipality": "Rochefort/Saint-Agnant",
+    "icao_code": "LFDN",
+    "iata_code": "RCO"
+  },
+  {
+    "name": "Aérodrome de Belle Île",
+    "iso_country": "France",
+    "municipality": "Bangor",
+    "icao_code": "N/A",
+    "iata_code": "BIC"
+  },
+  {
+    "name": "Ouessant Airport",
+    "iso_country": "France",
+    "municipality": "Ushant",
+    "icao_code": "N/A",
+    "iata_code": "OUI"
+  },
+  {
+    "name": "Île d'Yeu Airport",
+    "iso_country": "France",
+    "municipality": "Île d'Yeu",
+    "icao_code": "LFEY",
+    "iata_code": "IDY"
+  },
+  {
+    "name": "Colmar-Houssen Airport",
+    "iso_country": "France",
+    "municipality": "Colmar, Haut-Rhin",
+    "icao_code": "LFGA",
+    "iata_code": "CMR"
+  },
+  {
+    "name": "Dole-Jura Airport",
+    "iso_country": "France",
+    "municipality": "Tavaux, Jura",
+    "icao_code": "LFGJ",
+    "iata_code": "DLE"
+  },
+  {
+    "name": "Megève Altiport",
+    "iso_country": "France",
+    "municipality": "Megève",
+    "icao_code": "LFHM",
+    "iata_code": "MVV"
+  },
+  {
+    "name": "Aubenas-South Ardèche Airport",
+    "iso_country": "France",
+    "municipality": "Lanas, Ardèche",
+    "icao_code": "LFHO",
+    "iata_code": "OBS"
+  },
+  {
+    "name": "Le Puy-Loudes Airfield",
+    "iso_country": "France",
+    "municipality": "Chaspuzac, Haute-Loire",
+    "icao_code": "LFHP",
+    "iata_code": "LPY"
+  },
+  {
+    "name": "L'Alpe d'Huez - Henri Giraud Altiport",
+    "iso_country": "France",
+    "municipality": "Huez, Isère",
+    "icao_code": "LFHU",
+    "iata_code": "AHZ"
+  },
+  {
+    "name": "Metz-Nancy-Lorraine Airport",
+    "iso_country": "France",
+    "municipality": "Goin",
+    "icao_code": "LFJL",
+    "iata_code": "ETZ"
+  },
+  {
+    "name": "Angers-Loire Airport",
+    "iso_country": "France",
+    "municipality": "Marcé, Maine-et-Loire",
+    "icao_code": "LFJR",
+    "iata_code": "ANE"
+  },
+  {
+    "name": "Bastia-Poretta Airport",
+    "iso_country": "France",
+    "municipality": "Bastia/Poretta",
+    "icao_code": "LFKB",
+    "iata_code": "BIA"
+  },
+  {
+    "name": "Calvi-Sainte-Catherine Airport",
+    "iso_country": "France",
+    "municipality": "Calvi/Sainte-Catherine",
+    "icao_code": "LFKC",
+    "iata_code": "CLY"
+  },
+  {
+    "name": "Figari Sud-Corse Airport",
+    "iso_country": "France",
+    "municipality": "Figari Sud-Corse",
+    "icao_code": "LFKF",
+    "iata_code": "FSC"
+  },
+  {
+    "name": "Ajaccio-Napoléon Bonaparte Airport",
+    "iso_country": "France",
+    "municipality": "Ajaccio/Napoléon Bonaparte",
+    "icao_code": "LFKJ",
+    "iata_code": "AJA"
+  },
+  {
+    "name": "Propriano Airport",
+    "iso_country": "France",
+    "municipality": "Propriano",
+    "icao_code": "LFKO",
+    "iata_code": "PRP"
+  },
+  {
+    "name": "Solenzara (BA 126) Air Base",
+    "iso_country": "France",
+    "municipality": "Solenzara",
+    "icao_code": "LFKS",
+    "iata_code": "SOZ"
+  },
+  {
+    "name": "Méribel Altiport",
+    "iso_country": "France",
+    "municipality": "Les Allues",
+    "icao_code": "LFKX",
+    "iata_code": "MFX"
+  },
+  {
+    "name": "Auxerre-Branches Airport",
+    "iso_country": "France",
+    "municipality": "Appoigny, Yonne",
+    "icao_code": "LFLA",
+    "iata_code": "AUF"
+  },
+  {
+    "name": "Chambéry Savoie Mont Blanc Airport",
+    "iso_country": "France",
+    "municipality": "Viviers-du-Lac",
+    "icao_code": "LFLB",
+    "iata_code": "CMF"
+  },
+  {
+    "name": "Clermont-Ferrand Auvergne Airport",
+    "iso_country": "France",
+    "municipality": "Aulnat, Puy-de-Dôme",
+    "icao_code": "LFLC",
+    "iata_code": "CFE"
+  },
+  {
+    "name": "Bourges Airport",
+    "iso_country": "France",
+    "municipality": "Bourges, Cher",
+    "icao_code": "LFLD",
+    "iata_code": "BOU"
+  },
+  {
+    "name": "Courchevel Altiport",
+    "iso_country": "France",
+    "municipality": "Saint-Bon",
+    "icao_code": "LFLJ",
+    "iata_code": "CVF"
+  },
+  {
+    "name": "Lyon Saint-Exupéry Airport",
+    "iso_country": "France",
+    "municipality": "Colombier-Saugnieu, Rhône",
+    "icao_code": "LFLL",
+    "iata_code": "LYS"
+  },
+  {
+    "name": "Saint-Yan Airport",
+    "iso_country": "France",
+    "municipality": "L'Hôpital-le-Mercier, Saône-et-Loire",
+    "icao_code": "LFLN",
+    "iata_code": "SYT"
+  },
+  {
+    "name": "Roanne-Renaison Airport",
+    "iso_country": "France",
+    "municipality": "Saint-Léger-sur-Roanne",
+    "icao_code": "LFLO",
+    "iata_code": "RNE"
+  },
+  {
+    "name": "Annecy Haute-Savoie Mont Blanc Airport",
+    "iso_country": "France",
+    "municipality": "Epagny Metz-Tessy",
+    "icao_code": "LFLP",
+    "iata_code": "NCY"
+  },
+  {
+    "name": "Grenoble Alpes Isère Airport",
+    "iso_country": "France",
+    "municipality": "Saint-Étienne-de-Saint-Geoirs, Isère",
+    "icao_code": "LFLS",
+    "iata_code": "GNB"
+  },
+  {
+    "name": "Valence-Chabeuil Airport",
+    "iso_country": "France",
+    "municipality": "Chabeuil, Drôme",
+    "icao_code": "LFLU",
+    "iata_code": "VAF"
+  },
+  {
+    "name": "Vichy-Charmeil Airport",
+    "iso_country": "France",
+    "municipality": "Charmeil, Allier",
+    "icao_code": "LFLV",
+    "iata_code": "VHY"
+  },
+  {
+    "name": "Aurillac Airport",
+    "iso_country": "France",
+    "municipality": "Aurillac",
+    "icao_code": "LFLW",
+    "iata_code": "AUR"
+  },
+  {
+    "name": "Châteauroux-Déols Marcel Dassault Airport",
+    "iso_country": "France",
+    "municipality": "Déols, Indre",
+    "icao_code": "LFLX",
+    "iata_code": "CHR"
+  },
+  {
+    "name": "Lyon Bron Airport",
+    "iso_country": "France",
+    "municipality": "Chassieu, Lyon",
+    "icao_code": "LFLY",
+    "iata_code": "LYN"
+  },
+  {
+    "name": "Cannes-Mandelieu Airport",
+    "iso_country": "France",
+    "municipality": "Cannes, Alpes-Maritimes",
+    "icao_code": "LFMD",
+    "iata_code": "CEQ"
+  },
+  {
+    "name": "Saint-Étienne-Bouthéon Airport",
+    "iso_country": "France",
+    "municipality": "Andrézieux-Bouthéon, Loire",
+    "icao_code": "LFMH",
+    "iata_code": "EBU"
+  },
+  {
+    "name": "Carcassonne Airport",
+    "iso_country": "France",
+    "municipality": "Carcassonne/Salvaza",
+    "icao_code": "LFMK",
+    "iata_code": "CCF"
+  },
+  {
+    "name": "Marseille Provence Airport",
+    "iso_country": "France",
+    "municipality": "Marignane, Bouches-du-Rhône",
+    "icao_code": "LFML",
+    "iata_code": "MRS"
+  },
+  {
+    "name": "Nice-Côte d'Azur Airport",
+    "iso_country": "France",
+    "municipality": "Nice, Alpes-Maritimes",
+    "icao_code": "LFMN",
+    "iata_code": "NCE"
+  },
+  {
+    "name": "Perpignan-Rivesaltes (Llabanère) Airport",
+    "iso_country": "France",
+    "municipality": "Perpignan/Rivesaltes",
+    "icao_code": "LFMP",
+    "iata_code": "PGF"
+  },
+  {
+    "name": "Le Castellet Airport",
+    "iso_country": "France",
+    "municipality": "Le Castellet, Var",
+    "icao_code": "LFMQ",
+    "iata_code": "CTT"
+  },
+  {
+    "name": "Barcelonnette - Saint-Pons Airfield",
+    "iso_country": "France",
+    "municipality": "Saint-Pons, Alpes-de-Haute-Provence",
+    "icao_code": "LFMR",
+    "iata_code": "BAE"
+  },
+  {
+    "name": "Montpellier-Méditerranée Airport",
+    "iso_country": "France",
+    "municipality": "Montpellier/Méditerranée",
+    "icao_code": "LFMT",
+    "iata_code": "MPL"
+  },
+  {
+    "name": "Béziers-Vias Airport",
+    "iso_country": "France",
+    "municipality": "Béziers/Vias",
+    "icao_code": "LFMU",
+    "iata_code": "BZR"
+  },
+  {
+    "name": "Avignon-Caumont Airport",
+    "iso_country": "France",
+    "municipality": "Avignon, Vaucluse",
+    "icao_code": "LFMV",
+    "iata_code": "AVN"
+  },
+  {
+    "name": "Gap-Tallard Airfield",
+    "iso_country": "France",
+    "municipality": "Tallard, Hautes-Alpes",
+    "icao_code": "LFNA",
+    "iata_code": "GAT"
+  },
+  {
+    "name": "Mende-Brenoux Airfield",
+    "iso_country": "France",
+    "municipality": "Mende/Brénoux",
+    "icao_code": "LFNB",
+    "iata_code": "MEN"
+  },
+  {
+    "name": "Mont-Dauphin Saint-Crépin Airfield",
+    "iso_country": "France",
+    "municipality": "Saint-Crépin, Hautes-Alpes",
+    "icao_code": "LFNC",
+    "iata_code": "SCP"
+  },
+  {
+    "name": "Paris-Beauvais Airport",
+    "iso_country": "France",
+    "municipality": "Tillé",
+    "icao_code": "LFOB",
+    "iata_code": "BVA"
+  },
+  {
+    "name": "Évreux-Fauville (BA 105) Air Base",
+    "iso_country": "France",
+    "municipality": "Fauville, Eure",
+    "icao_code": "LFOE",
+    "iata_code": "EVX"
+  },
+  {
+    "name": "Le Havre-Octeville Airport",
+    "iso_country": "France",
+    "municipality": "Le Havre",
+    "icao_code": "LFOH",
+    "iata_code": "LEH"
+  },
+  {
+    "name": "Châlons-Vatry Airport",
+    "iso_country": "France",
+    "municipality": "Bussy-Lettrée",
+    "icao_code": "LFOK",
+    "iata_code": "XCR"
+  },
+  {
+    "name": "Les Sables-d'Olonne Talmont Airport",
+    "iso_country": "France",
+    "municipality": "Les Sables-d'Olonne",
+    "icao_code": "LFOO",
+    "iata_code": "LSO"
+  },
+  {
+    "name": "Rouen Vallée de Seine Airport",
+    "iso_country": "France",
+    "municipality": "Boos",
+    "icao_code": "LFOP",
+    "iata_code": "URO"
+  },
+  {
+    "name": "Tours Val de Loire Airport",
+    "iso_country": "France",
+    "municipality": "Tours, Indre-et-Loire",
+    "icao_code": "LFOT",
+    "iata_code": "TUF"
+  },
+  {
+    "name": "Cholet Le Pontreau Airfield",
+    "iso_country": "France",
+    "municipality": "Cholet/Le Pontreau",
+    "icao_code": "LFOU",
+    "iata_code": "CET"
+  },
+  {
+    "name": "Laval-Entrammes Airport",
+    "iso_country": "France",
+    "municipality": "Laval, Mayenne",
+    "icao_code": "LFOV",
+    "iata_code": "LVA"
+  },
+  {
+    "name": "Orléans–Saint-Denis-de-l'Hôtel Airport",
+    "iso_country": "France",
+    "municipality": "Saint-Denis-de-l'Hôtel, Loiret",
+    "icao_code": "LFOZ",
+    "iata_code": "ORE"
+  },
+  {
+    "name": "Paris-Le Bourget Airport",
+    "iso_country": "France",
+    "municipality": "Paris (Le Bourget, Seine-Saint-Denis)",
+    "icao_code": "N/A",
+    "iata_code": "LBG"
+  },
+  {
+    "name": "Creil Air Base",
+    "iso_country": "France",
+    "municipality": "Creil",
+    "icao_code": "LFPC",
+    "iata_code": "CSF"
+  },
+  {
+    "name": "Charles de Gaulle International Airport",
+    "iso_country": "France",
+    "municipality": "Paris (Roissy-en-France, Val-d'Oise)",
+    "icao_code": "LFPG",
+    "iata_code": "CDG"
+  },
+  {
+    "name": "Toussus-le-Noble Airport",
+    "iso_country": "France",
+    "municipality": "Toussus-le-Noble, Yvelines",
+    "icao_code": "LFPN",
+    "iata_code": "TNF"
+  },
+  {
+    "name": "Paris-Orly Airport",
+    "iso_country": "France",
+    "municipality": "Paris (Orly, Val-de-Marne)",
+    "icao_code": "LFPO",
+    "iata_code": "ORY"
+  },
+  {
+    "name": "Pontoise-Cormeilles Aerodrome",
+    "iso_country": "France",
+    "municipality": "Cormeilles-en-Vexin, Val-d'Oise",
+    "icao_code": "N/A",
+    "iata_code": "POX"
+  },
+  {
+    "name": "Vélizy-Villacoublay Air Base",
+    "iso_country": "France",
+    "municipality": "Vélizy-Villacoublay, Yvelines",
+    "icao_code": "N/A",
+    "iata_code": "VIY"
+  },
+  {
+    "name": "Nevers-Fourchambault Airport",
+    "iso_country": "France",
+    "municipality": "Marzy, Nièvre",
+    "icao_code": "LFQG",
+    "iata_code": "NVS"
+  },
+  {
+    "name": "Lille Airport",
+    "iso_country": "France",
+    "municipality": "Lesquin",
+    "icao_code": "LFQQ",
+    "iata_code": "LIL"
+  },
+  {
+    "name": "Merville-Calonne Airport",
+    "iso_country": "France",
+    "municipality": "Merville, Nord",
+    "icao_code": "LFQT",
+    "iata_code": "HZB"
+  },
+  {
+    "name": "Brest Bretagne Airport",
+    "iso_country": "France",
+    "municipality": "Brest/Guipavas",
+    "icao_code": "LFRB",
+    "iata_code": "BES"
+  },
+  {
+    "name": "Cherbourg-Maupertus Airport",
+    "iso_country": "France",
+    "municipality": "Gonneville-Le Theil, Manche",
+    "icao_code": "LFRC",
+    "iata_code": "CER"
+  },
+  {
+    "name": "Dinard-Pleurtuit-Saint-Malo Airport",
+    "iso_country": "France",
+    "municipality": "Pleurtuit, Ille-et-Vilaine",
+    "icao_code": "LFRD",
+    "iata_code": "DNR"
+  },
+  {
+    "name": "La Baule-Escoublac Airport",
+    "iso_country": "France",
+    "municipality": "La Baule-Escoublac",
+    "icao_code": "LFRE",
+    "iata_code": "LBY"
+  },
+  {
+    "name": "Granville Airport",
+    "iso_country": "France",
+    "municipality": "Bréville-sur-Mer, Manche",
+    "icao_code": "LFRF",
+    "iata_code": "GFR"
+  },
+  {
+    "name": "Deauville-Normandie Airport",
+    "iso_country": "France",
+    "municipality": "Deauville, Calvados",
+    "icao_code": "LFRG",
+    "iata_code": "DOL"
+  },
+  {
+    "name": "Lorient South Brittany (Bretagne Sud) Airport",
+    "iso_country": "France",
+    "municipality": "Lorient/Lann/Bihoué",
+    "icao_code": "LFRH",
+    "iata_code": "LRT"
+  },
+  {
+    "name": "La Roche-sur-Yon Airport",
+    "iso_country": "France",
+    "municipality": "La Roche-sur-Yon/Les Ajoncs",
+    "icao_code": "LFRI",
+    "iata_code": "EDM"
+  },
+  {
+    "name": "Landivisiau Air Base",
+    "iso_country": "France",
+    "municipality": "Landivisiau",
+    "icao_code": "LFRJ",
+    "iata_code": "LDV"
+  },
+  {
+    "name": "Caen-Carpiquet Airport",
+    "iso_country": "France",
+    "municipality": "Carpiquet, Calvados",
+    "icao_code": "LFRK",
+    "iata_code": "CFR"
+  },
+  {
+    "name": "Le Mans-Arnage Airport",
+    "iso_country": "France",
+    "municipality": "Le Mans, Sarthe",
+    "icao_code": "LFRM",
+    "iata_code": "LME"
+  },
+  {
+    "name": "Rennes-Saint-Jacques Airport",
+    "iso_country": "France",
+    "municipality": "Saint-Jacques-de-la-Lande, Ille-et-Vilaine",
+    "icao_code": "LFRN",
+    "iata_code": "RNS"
+  },
+  {
+    "name": "Lannion-Côte de Granit Airport",
+    "iso_country": "France",
+    "municipality": "Lannion",
+    "icao_code": "LFRO",
+    "iata_code": "LAI"
+  },
+  {
+    "name": "Quimper-Cornouaille Airport",
+    "iso_country": "France",
+    "municipality": "Quimper/Pluguffan",
+    "icao_code": "LFRQ",
+    "iata_code": "UIP"
+  },
+  {
+    "name": "Nantes Atlantique Airport",
+    "iso_country": "France",
+    "municipality": "Nantes",
+    "icao_code": "LFRS",
+    "iata_code": "NTE"
+  },
+  {
+    "name": "Saint-Brieuc-Armor Airport",
+    "iso_country": "France",
+    "municipality": "Trémuson, Côtes-d'Armor",
+    "icao_code": "LFRT",
+    "iata_code": "SBK"
+  },
+  {
+    "name": "Morlaix-Ploujean Airport",
+    "iso_country": "France",
+    "municipality": "Morlaix/Ploujean",
+    "icao_code": "LFRU",
+    "iata_code": "MXN"
+  },
+  {
+    "name": "Vannes-Meucon Airport",
+    "iso_country": "France",
+    "municipality": "Vannes/Meucon",
+    "icao_code": "LFRV",
+    "iata_code": "VNE"
+  },
+  {
+    "name": "Saint-Nazaire-Montoir Airport",
+    "iso_country": "France",
+    "municipality": "Saint-Nazaire/Montoir",
+    "icao_code": "LFRZ",
+    "iata_code": "SNR"
+  },
+  {
+    "name": "EuroAirport Basel-Mulhouse-Freiburg",
+    "iso_country": "France",
+    "municipality": "Saint-Louis",
+    "icao_code": "LFSB",
+    "iata_code": "BSL"
+  },
+  {
+    "name": "Dijon-Bourgogne Airport",
+    "iso_country": "France",
+    "municipality": "Ouges, Côte-d'Or",
+    "icao_code": "LFSD",
+    "iata_code": "DIJ"
+  },
+  {
+    "name": "Épinal-Mirecourt Airport",
+    "iso_country": "France",
+    "municipality": "Juvaincourt, Vosges",
+    "icao_code": "LFSG",
+    "iata_code": "EPL"
+  },
+  {
+    "name": "Brive-Souillac",
+    "iso_country": "France",
+    "municipality": "Brive la Gaillarde",
+    "icao_code": "LFSL",
+    "iata_code": "BVE"
+  },
+  {
+    "name": "Nancy-Essey Airport",
+    "iso_country": "France",
+    "municipality": "Tomblaine, Meurthe-et-Moselle",
+    "icao_code": "LFSN",
+    "iata_code": "ENC"
+  },
+  {
+    "name": "Strasbourg Airport",
+    "iso_country": "France",
+    "municipality": "Strasbourg",
+    "icao_code": "LFST",
+    "iata_code": "SXB"
+  },
+  {
+    "name": "Toulon-Hyères Airport",
+    "iso_country": "France",
+    "municipality": "Hyères, Var",
+    "icao_code": "LFTH",
+    "iata_code": "TLN"
+  },
+  {
+    "name": "Nîmes-Arles-Camargue Airport",
+    "iso_country": "France",
+    "municipality": "Nîmes/Garons",
+    "icao_code": "LFTW",
+    "iata_code": "FNI"
+  },
+  {
+    "name": "La Môle-Saint-Tropez Airport",
+    "iso_country": "France",
+    "municipality": "La Môle, Var",
+    "icao_code": "LFTZ",
+    "iata_code": "LTT"
+  }
+]

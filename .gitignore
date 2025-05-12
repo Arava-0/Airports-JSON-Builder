@@ -1,0 +1,7 @@
+# Deno-specific
+result.json
+
+# Optional backups / editors
+*.log
+*.swp
+.DS_Store
